@@ -1,0 +1,677 @@
+,Loan_ID,Loan_Status,Gender,Married,Locality,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area
+0,LP001996,N,Male,No,"Qureshi Square, New Delhi",0,Graduate,No,20233,0,480,360,1,Rural
+1,LP002191,N,Male,Yes,"Qureshi Square, New Delhi",0,Graduate,No,19730,5266,570,360,1,Rural
+2,LP002699,Y,Male,Yes,"Qureshi Square, New Delhi",2,Graduate,Yes,17500,0,400,360,1,Rural
+3,LP002527,Y,Male,Yes,"Qureshi Square, New Delhi",2,Graduate,Yes,16525,1014,150,360,1,Rural
+4,LP002065,Y,Male,Yes,"Qureshi Square, New Delhi",3,Graduate,No,15000,0,300,360,1,Rural
+5,LP001859,N,Male,Yes,"Qureshi Square, New Delhi",0,Graduate,No,14683,2100,304,360,1,Rural
+6,LP001401,Y,Male,Yes,"Qureshi Square, New Delhi",1,Graduate,No,14583,0,185,180,1,Rural
+7,LP001100,N,Male,No,"Qureshi Square, New Delhi",3,Graduate,No,12500,3000,320,360,1,Rural
+8,LP001519,N,Female,No,"Qureshi Square, New Delhi",0,Graduate,No,10000,1666,225,360,1,Rural
+9,LP002050,N,Male,Yes,"Qureshi Square, New Delhi",1,Graduate,Yes,10000,0,155,360,1,Rural
+10,LP002945,Y,Male,Yes,"Qureshi Square, New Delhi",0,Graduate,Yes,9963,0,180,360,1,Rural
+11,LP001935,Y,Male,No,"Qureshi Square, New Delhi",0,Graduate,No,9508,0,187,360,1,Rural
+12,LP002262,Y,Male,Yes,"Qureshi Square, New Delhi",3,Graduate,No,9504,0,275,360,1,Rural
+13,LP001647,Y,Male,Yes,"Qureshi Square, New Delhi",0,Graduate,No,9328,0,188,180,1,Rural
+14,LP002201,Y,Male,Yes,"Qureshi Square, New Delhi",2,Graduate,Yes,9323,7873,380,300,1,Rural
+15,LP002255,Y,Male,No,"Qureshi Square, New Delhi",3,Graduate,No,9167,0,185,360,1,Rural
+16,LP002140,N,Male,No,"Qureshi Square, New Delhi",0,Graduate,No,8750,4167,308,360,1,Rural
+17,LP002219,Y,Male,Yes,"Qureshi Square, New Delhi",3,Graduate,No,8750,4996,130,360,1,Rural
+18,LP002067,N,Male,Yes,"Qureshi Square, New Delhi",1,Graduate,Yes,8666,4983,376,360,0,Rural
+19,LP001666,Y,Male,No,"Qureshi Square, New Delhi",0,Graduate,No,8333,3750,187,360,1,Rural
+20,LP002149,Y,Male,Yes,"Qureshi Square, New Delhi",2,Graduate,No,8333,3167,165,360,1,Rural
+21,LP002693,Y,Male,Yes,"Qureshi Square, New Delhi",2,Graduate,Yes,7948,7166,480,360,1,Rural
+22,LP002409,Y,Male,Yes,"Qureshi Square, New Delhi",0,Graduate,No,7901,1833,180,360,1,Rural
+23,LP002301,N,Female,No,"Qureshi Square, New Delhi",0,Graduate,Yes,7441,0,194,360,1,Rural
+24,LP001871,Y,Female,No,"Qureshi Square, New Delhi",0,Graduate,No,7200,0,120,360,1,Rural
+25,LP002407,Y,Female,Yes,"Qureshi Square, New Delhi",0,Not Graduate,Yes,7142,0,138,360,1,Rural
+26,LP002180,Y,Male,No,"Qureshi Square, New Delhi",0,Graduate,Yes,6822,0,141,360,1,Rural
+27,LP002379,N,Male,No,"Qureshi Square, New Delhi",0,Graduate,No,6500,0,105,360,0,Rural
+28,LP002740,Y,Male,Yes,"Qureshi Square, New Delhi",3,Graduate,No,6417,0,157,180,1,Rural
+29,LP001761,Y,Male,No,"Qureshi Square, New Delhi",0,Graduate,Yes,6400,0,200,360,1,Rural
+30,LP002941,N,Male,Yes,"Qureshi Square, New Delhi",2,Not Graduate,Yes,6383,1000,187,360,1,Rural
+31,LP002602,N,Male,No,"Qureshi Square, New Delhi",0,Graduate,No,6283,4416,209,360,0,Rural
+32,LP001528,N,Male,No,"Qureshi Square, New Delhi",0,Graduate,No,6277,0,118,360,0,Rural
+33,LP001807,Y,Male,Yes,"Qureshi Square, New Delhi",2,Graduate,Yes,6250,1300,108,360,1,Rural
+34,LP002181,N,Male,No,"Qureshi Square, New Delhi",0,Not Graduate,No,6216,0,133,360,1,Rural
+35,LP002328,N,Male,Yes,"Qureshi Square, New Delhi",0,Not Graduate,No,6096,0,218,360,0,Rural
+36,LP001849,N,Male,No,"Qureshi Square, New Delhi",0,Not Graduate,No,6045,0,115,360,0,Rural
+37,LP002494,Y,Male,No,"Qureshi Square, New Delhi",0,Graduate,No,6000,0,140,360,1,Rural
+38,LP002820,Y,Male,Yes,"Qureshi Square, New Delhi",0,Graduate,No,5923,2054,211,360,1,Rural
+39,LP002348,Y,Male,Yes,"Qureshi Square, New Delhi",0,Graduate,No,5829,0,138,360,1,Rural
+40,LP001798,Y,Male,Yes,"Qureshi Square, New Delhi",2,Graduate,No,5819,5000,120,360,1,Rural
+41,LP002652,N,Male,No,"Qureshi Square, New Delhi",0,Graduate,No,5815,3666,311,360,1,Rural
+42,LP001715,Y,Male,Yes,"Qureshi Square, New Delhi",3,Not Graduate,Yes,5703,0,130,360,1,Rural
+43,LP002692,Y,Male,Yes,"Qureshi Square, New Delhi",3,Graduate,Yes,5677,1424,100,360,1,Rural
+44,LP001421,N,Male,Yes,"Qureshi Square, New Delhi",0,Graduate,No,5568,2142,175,360,1,Rural
+45,LP002524,Y,Male,No,"Qureshi Square, New Delhi",2,Graduate,No,5532,4648,162,360,1,Rural
+46,LP001784,Y,Male,Yes,"Qureshi Square, New Delhi",1,Graduate,No,5500,1260,170,360,1,Rural
+47,LP002142,N,Female,Yes,"Qureshi Square, New Delhi",0,Graduate,Yes,5500,0,105,360,0,Rural
+48,LP002250,Y,Male,Yes,"Qureshi Square, New Delhi",0,Graduate,No,5488,0,125,360,1,Rural
+49,LP001497,N,Male,Yes,"Qureshi Square, New Delhi",2,Graduate,No,5042,2083,185,360,1,Rural
+50,LP001955,N,Female,No,"Qureshi Square, New Delhi",0,Graduate,No,5000,2541,151,480,1,Rural
+51,LP001974,Y,Female,No,"Qureshi Square, New Delhi",0,Graduate,No,5000,0,132,360,1,Rural
+52,LP002068,Y,Male,No,"Qureshi Square, New Delhi",0,Graduate,No,4917,0,130,360,0,Rural
+53,LP001038,N,Male,Yes,"Qureshi Square, New Delhi",0,Not Graduate,No,4887,0,133,360,1,Rural
+54,LP001653,Y,Male,No,"Qureshi Square, New Delhi",0,Not Graduate,No,4885,0,48,360,1,Rural
+55,LP001097,N,Male,No,"Qureshi Square, New Delhi",1,Graduate,Yes,4692,0,106,360,1,Rural
+56,LP002434,Y,Male,Yes,"Qureshi Square, New Delhi",2,Not Graduate,No,4652,0,110,360,1,Rural
+57,LP002367,N,Female,No,"Qureshi Square, New Delhi",1,Not Graduate,No,4606,0,81,360,1,Rural
+58,LP001003,N,Male,Yes,"Qureshi Square, New Delhi",1,Graduate,No,4583,1508,128,360,1,Rural
+59,LP001489,N,Female,Yes,"Vikasnagar, New Delhi",0,Graduate,No,4583,0,84,360,1,Rural
+60,LP001577,N,Female,Yes,"Vikasnagar, New Delhi",0,Graduate,No,4583,0,112,360,1,Rural
+61,LP002472,Y,Male,No,"Vikasnagar, New Delhi",2,Graduate,No,4354,0,136,360,1,Rural
+62,LP002534,Y,Female,No,"Vikasnagar, New Delhi",0,Not Graduate,No,4350,0,154,360,1,Rural
+63,LP001439,Y,Male,Yes,"Vikasnagar, New Delhi",0,Not Graduate,No,4300,2014,194,360,1,Rural
+64,LP002912,N,Male,Yes,"Vikasnagar, New Delhi",1,Graduate,No,4283,3000,172,84,1,Rural
+65,LP001493,N,Male,Yes,"Vikasnagar, New Delhi",2,Not Graduate,No,4200,1430,129,360,1,Rural
+66,LP001664,Y,Male,No,"Vikasnagar, New Delhi",0,Graduate,No,4191,0,120,360,1,Rural
+67,LP001570,Y,Male,Yes,"Vikasnagar, New Delhi",2,Graduate,No,4167,1447,158,360,1,Rural
+68,LP002979,Y,Male,Yes,"Vikasnagar, New Delhi",3,Graduate,No,4106,0,40,180,1,Rural
+69,LP001875,Y,Male,No,"Vikasnagar, New Delhi",0,Graduate,No,4095,3447,151,360,1,Rural
+70,LP001978,Y,Male,No,"Vikasnagar, New Delhi",0,Graduate,No,4000,2500,140,360,1,Rural
+71,LP002964,Y,Male,Yes,"Vikasnagar, New Delhi",2,Not Graduate,No,3987,1411,157,360,1,Rural
+72,LP001698,Y,Male,No,"Vikasnagar, New Delhi",0,Not Graduate,No,3975,2531,55,360,1,Rural
+73,LP002448,N,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3948,1733,149,360,0,Rural
+74,LP002284,Y,Male,No,"Vikasnagar, New Delhi",0,Not Graduate,No,3902,1666,109,360,1,Rural
+75,LP002936,Y,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3859,3300,142,180,1,Rural
+76,LP002940,Y,Male,No,"Vikasnagar, New Delhi",0,Not Graduate,No,3833,0,110,360,1,Rural
+77,LP001790,Y,Female,No,"Vikasnagar, New Delhi",1,Graduate,No,3812,0,112,360,1,Rural
+78,LP001993,Y,Female,No,"Vikasnagar, New Delhi",0,Graduate,No,3762,1666,135,360,1,Rural
+79,LP001926,Y,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3704,2000,120,360,1,Rural
+80,LP002571,Y,Male,No,"Vikasnagar, New Delhi",0,Not Graduate,No,3691,0,110,360,1,Rural
+81,LP002958,Y,Male,No,"Vikasnagar, New Delhi",0,Graduate,No,3676,4301,172,360,1,Rural
+82,LP002637,N,Male,No,"Vikasnagar, New Delhi",0,Not Graduate,No,3598,1287,100,360,1,Rural
+83,LP002585,N,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3597,2157,119,360,0,Rural
+84,LP002789,N,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3593,4266,132,180,0,Rural
+85,LP002723,N,Male,No,"Vikasnagar, New Delhi",2,Graduate,No,3588,0,110,360,0,Rural
+86,LP002545,N,Male,No,"Vikasnagar, New Delhi",2,Graduate,No,3547,0,80,360,0,Rural
+87,LP001586,N,Male,Yes,"Vikasnagar, New Delhi",3,Not Graduate,No,3522,0,81,180,1,Rural
+88,LP002622,Y,Male,Yes,"Vikasnagar, New Delhi",2,Graduate,No,3510,4416,243,360,1,Rural
+89,LP001606,Y,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3497,1964,116,360,1,Rural
+90,LP002429,Y,Male,Yes,"Vikasnagar, New Delhi",1,Graduate,Yes,3466,1210,130,360,1,Rural
+91,LP002659,Y,Male,Yes,"Vikasnagar, New Delhi",3,Graduate,No,3466,3428,150,360,1,Rural
+92,LP002684,N,Female,No,"Vikasnagar, New Delhi",0,Not Graduate,No,3400,0,95,360,1,Rural
+93,LP002837,N,Male,Yes,"Vikasnagar, New Delhi",3,Graduate,No,3400,2500,123,360,0,Rural
+94,LP001197,N,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3366,2200,135,360,1,Rural
+95,LP002443,N,Male,Yes,"Vikasnagar, New Delhi",2,Graduate,No,3340,1710,150,360,0,Rural
+96,LP001751,N,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3250,0,170,360,1,Rural
+97,LP002974,Y,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3232,1950,108,360,1,Rural
+98,LP001924,Y,Male,No,"Vikasnagar, New Delhi",0,Graduate,No,3158,3053,89,360,1,Rural
+99,LP002536,Y,Male,Yes,"Vikasnagar, New Delhi",3,Not Graduate,No,3095,0,113,360,1,Rural
+100,LP001846,Y,Female,No,"Vikasnagar, New Delhi",3,Graduate,No,3083,0,255,360,1,Rural
+101,LP001936,Y,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3075,2416,139,360,1,Rural
+102,LP002487,Y,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,3015,2188,153,360,1,Rural
+103,LP002369,Y,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,2920,16,87,360,1,Rural
+104,LP002739,N,Male,Yes,"Vikasnagar, New Delhi",0,Not Graduate,No,2917,536,66,360,1,Rural
+105,LP002978,Y,Female,No,"Vikasnagar, New Delhi",0,Graduate,No,2900,0,71,360,1,Rural
+106,LP001892,Y,Male,No,"Vikasnagar, New Delhi",0,Graduate,No,2833,1857,126,360,1,Rural
+107,LP002911,N,Male,Yes,"Vikasnagar, New Delhi",1,Graduate,No,2787,1917,146,360,0,Rural
+108,LP002777,Y,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,2785,2016,110,360,1,Rural
+109,LP002767,Y,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,2768,1950,155,360,1,Rural
+110,LP002296,N,Male,No,"Vikasnagar, New Delhi",0,Not Graduate,No,2755,0,65,300,1,Rural
+111,LP002141,Y,Male,Yes,"Vikasnagar, New Delhi",3,Graduate,No,2666,2083,95,360,1,Rural
+112,LP002366,Y,Male,Yes,"Vikasnagar, New Delhi",0,Graduate,No,2666,4300,121,360,1,Rural
+113,LP002517,N,Male,Yes,"Vikasnagar, New Delhi",1,Not Graduate,No,2653,1500,113,180,0,Rural
+114,LP002115,N,Male,Yes,"Vikasnagar, New Delhi",3,Not Graduate,No,2647,1587,173,360,1,Rural
+115,LP002138,Y,Male,Yes,"Amit Enclave, Gurgaon",0,Graduate,No,2625,6250,187,360,1,Rural
+116,LP001207,N,Male,Yes,"Amit Enclave, Gurgaon",0,Not Graduate,Yes,2609,3449,165,180,0,Rural
+117,LP002587,Y,Male,Yes,"Amit Enclave, Gurgaon",0,Not Graduate,No,2600,1700,107,360,1,Rural
+118,LP001841,Y,Male,No,"Amit Enclave, Gurgaon",0,Not Graduate,Yes,2583,2167,104,360,1,Rural
+119,LP001529,Y,Male,Yes,"Amit Enclave, Gurgaon",0,Graduate,Yes,2577,3750,152,360,1,Rural
+120,LP002772,Y,Male,No,"Amit Enclave, Gurgaon",0,Graduate,No,2526,1783,145,360,1,Rural
+121,LP002006,Y,Female,No,"Amit Enclave, Gurgaon",0,Graduate,No,2507,0,56,360,1,Rural
+122,LP002112,Y,Male,Yes,"Amit Enclave, Gurgaon",2,Graduate,Yes,2500,4600,176,360,1,Rural
+123,LP002449,Y,Male,Yes,"Amit Enclave, Gurgaon",0,Graduate,No,2483,2466,90,180,0,Rural
+124,LP001578,Y,Male,Yes,"Amit Enclave, Gurgaon",0,Graduate,No,2439,3333,129,360,1,Rural
+125,LP002116,N,Female,No,"Amit Enclave, Gurgaon",0,Graduate,No,2378,0,46,360,1,Rural
+126,LP002446,N,Male,Yes,"Amit Enclave, Gurgaon",2,Not Graduate,No,2309,1255,125,360,0,Rural
+127,LP001532,N,Male,Yes,"Amit Enclave, Gurgaon",2,Not Graduate,No,2281,0,113,360,1,Rural
+128,LP002332,Y,Male,Yes,"Amit Enclave, Gurgaon",0,Not Graduate,No,2253,2033,110,360,1,Rural
+129,LP002314,Y,Female,No,"Amit Enclave, Gurgaon",0,Not Graduate,No,2213,0,66,360,1,Rural
+130,LP001641,N,Male,Yes,"Amit Enclave, Gurgaon",1,Graduate,Yes,2178,0,66,300,0,Rural
+131,LP001608,Y,Male,Yes,"Amit Enclave, Gurgaon",2,Graduate,No,2045,1619,101,360,1,Rural
+132,LP002544,Y,Male,Yes,"Amit Enclave, Gurgaon",1,Not Graduate,No,1958,2436,131,360,1,Rural
+133,LP001029,N,Male,No,"Amit Enclave, Gurgaon",0,Graduate,No,1853,2840,114,360,1,Rural
+134,LP002877,Y,Male,Yes,"Amit Enclave, Gurgaon",1,Graduate,No,1782,2232,107,360,1,Rural
+135,LP002345,Y,Male,Yes,"Amit Enclave, Gurgaon",0,Graduate,No,1025,2773,112,360,1,Rural
+136,LP002603,Y,Female,No,"Amit Enclave, Gurgaon",0,Graduate,No,645,3683,113,480,1,Rural
+137,LP001722,N,Male,Yes,"Amit Enclave, Gurgaon",0,Graduate,No,150,1800,135,360,1,Rural
+138,LP001536,Y,Male,Yes,"Richmond, New Delhi",3,Graduate,No,39999,0,600,180,0,Semiurban
+139,LP001640,Y,Male,Yes,"Richmond, New Delhi",0,Graduate,Yes,39147,4750,120,360,1,Semiurban
+140,LP002422,Y,Male,No,"Richmond, New Delhi",1,Graduate,No,37719,0,152,360,1,Semiurban
+141,LP001637,N,Male,Yes,"Richmond, New Delhi",1,Graduate,No,33846,0,260,360,1,Semiurban
+142,LP002813,Y,Female,Yes,"Richmond, New Delhi",1,Graduate,Yes,19484,0,600,360,1,Semiurban
+143,LP002582,Y,Female,No,"Richmond, New Delhi",0,Not Graduate,Yes,17263,0,225,360,1,Semiurban
+144,LP002531,Y,Male,Yes,"Richmond, New Delhi",1,Graduate,Yes,16667,2250,86,360,1,Semiurban
+145,LP002194,Y,Female,No,"Richmond, New Delhi",0,Graduate,Yes,15759,0,55,360,1,Semiurban
+146,LP001492,N,Male,No,"Richmond, New Delhi",0,Graduate,No,14999,0,242,360,0,Semiurban
+147,LP002364,Y,Male,Yes,"Richmond, New Delhi",0,Graduate,No,14880,0,96,360,1,Semiurban
+148,LP001907,Y,Male,Yes,"Richmond, New Delhi",0,Graduate,No,14583,0,436,360,1,Semiurban
+149,LP001020,N,Male,Yes,"Richmond, New Delhi",1,Graduate,No,12841,10968,349,360,1,Semiurban
+150,LP001656,N,Male,No,"Richmond, New Delhi",0,Graduate,No,12000,0,164,360,1,Semiurban
+151,LP002959,Y,Female,Yes,"Richmond, New Delhi",1,Graduate,No,12000,0,496,360,1,Semiurban
+152,LP002541,Y,Male,Yes,"Richmond, New Delhi",0,Graduate,No,10833,0,234,360,1,Semiurban
+153,LP002795,Y,Male,Yes,"Richmond, New Delhi",3,Graduate,Yes,10139,0,260,360,1,Semiurban
+154,LP001708,N,Female,No,"Richmond, New Delhi",0,Graduate,No,10000,0,214,360,1,Semiurban
+155,LP001066,Y,Male,Yes,"Richmond, New Delhi",0,Graduate,Yes,9560,0,191,360,1,Semiurban
+156,LP002139,Y,Male,Yes,"Richmond, New Delhi",0,Graduate,No,9083,0,228,360,1,Semiurban
+157,LP002377,Y,Female,No,"Richmond, New Delhi",1,Graduate,Yes,8624,0,150,360,1,Semiurban
+158,LP002473,N,Male,Yes,"Richmond, New Delhi",0,Graduate,No,8334,0,160,360,1,Semiurban
+159,LP001776,Y,Female,No,"Richmond, New Delhi",0,Graduate,No,8333,0,280,360,1,Semiurban
+160,LP002543,Y,Male,Yes,"Richmond, New Delhi",2,Graduate,No,8333,0,246,360,1,Semiurban
+161,LP002315,N,Male,Yes,"Richmond, New Delhi",1,Graduate,No,8300,0,152,300,0,Semiurban
+162,LP001580,Y,Male,Yes,"Richmond, New Delhi",2,Graduate,No,8000,0,200,360,1,Semiurban
+163,LP002453,Y,Male,No,"Richmond, New Delhi",0,Graduate,Yes,7085,0,84,360,1,Semiurban
+164,LP001504,Y,Male,No,"Richmond, New Delhi",0,Graduate,Yes,6950,0,175,180,1,Semiurban
+165,LP001953,Y,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,6875,0,200,360,1,Semiurban
+166,LP002716,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Not Graduate,No,6783,0,130,360,1,Semiurban
+167,LP002529,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,6700,1750,230,300,1,Semiurban
+168,LP002892,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,6540,0,205,360,1,Semiurban
+169,LP002863,N,Male,Yes,"Sukhdev Enclave, New Delhi",3,Graduate,No,6406,0,150,360,1,Semiurban
+170,LP002190,Y,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,6325,0,175,360,1,Semiurban
+171,LP001318,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,6250,5654,188,180,1,Semiurban
+172,LP001750,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,6250,0,128,360,1,Semiurban
+173,LP001758,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,6250,1695,210,360,1,Semiurban
+174,LP002862,N,Male,Yes,"Sukhdev Enclave, New Delhi",2,Not Graduate,No,6125,1625,187,480,1,Semiurban
+175,LP002640,Y,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,6065,2004,250,360,1,Semiurban
+176,LP002931,N,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,Yes,6000,0,205,240,1,Semiurban
+177,LP002229,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,5941,4232,296,360,1,Semiurban
+178,LP002368,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,5935,0,133,360,1,Semiurban
+179,LP002082,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,Yes,5818,2160,184,360,1,Semiurban
+180,LP002821,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Not Graduate,Yes,5800,0,132,360,1,Semiurban
+181,LP001225,N,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,5726,4595,258,360,1,Semiurban
+182,LP001594,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,5708,5625,187,360,1,Semiurban
+183,LP001310,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,5695,4167,175,360,1,Semiurban
+184,LP002792,Y,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,5468,1032,26,360,1,Semiurban
+185,LP002706,Y,Male,Yes,"Sukhdev Enclave, New Delhi",1,Not Graduate,No,5285,1430,161,360,0,Semiurban
+186,LP001253,Y,Male,Yes,"Sukhdev Enclave, New Delhi",3,Graduate,Yes,5266,1774,187,360,1,Semiurban
+187,LP002197,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,5185,0,155,360,1,Semiurban
+188,LP002160,Y,Male,Yes,"Sukhdev Enclave, New Delhi",3,Graduate,No,5167,3167,200,360,1,Semiurban
+189,LP001872,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,Yes,5166,0,128,360,1,Semiurban
+190,LP002170,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,5000,3667,236,360,1,Semiurban
+191,LP002776,N,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,5000,0,103,360,0,Semiurban
+192,LP001677,Y,Male,No,"Sukhdev Enclave, New Delhi",2,Graduate,No,4923,0,166,360,0,Semiurban
+193,LP001487,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4895,0,102,360,1,Semiurban
+194,LP002615,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,4865,5624,208,360,1,Semiurban
+195,LP001520,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,4860,830,125,360,1,Semiurban
+196,LP001349,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4843,3806,151,360,1,Semiurban
+197,LP002161,N,Female,No,"Sukhdev Enclave, New Delhi",1,Graduate,No,4723,0,81,360,1,Semiurban
+198,LP001877,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,4708,1387,150,360,1,Semiurban
+199,LP002418,Y,Male,No,"Sukhdev Enclave, New Delhi",3,Not Graduate,No,4707,1993,148,360,1,Semiurban
+200,LP002519,Y,Male,Yes,"Sukhdev Enclave, New Delhi",3,Graduate,No,4691,0,100,360,1,Semiurban
+201,LP002683,N,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4683,1915,185,360,1,Semiurban
+202,LP002741,Y,Female,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,4608,2845,140,180,1,Semiurban
+203,LP001636,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,4600,0,73,180,1,Semiurban
+204,LP001552,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,4583,5625,255,360,1,Semiurban
+205,LP002555,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,Yes,4583,2083,160,360,1,Semiurban
+206,LP002305,Y,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4547,0,115,360,1,Semiurban
+207,LP001692,Y,Female,No,"Sukhdev Enclave, New Delhi",0,Not Graduate,No,4408,0,120,360,1,Semiurban
+208,LP001938,N,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,4400,0,127,360,0,Semiurban
+209,LP001603,N,Male,Yes,"Sukhdev Enclave, New Delhi",0,Not Graduate,Yes,4344,736,87,360,1,Semiurban
+210,LP002053,Y,Male,Yes,"Sukhdev Enclave, New Delhi",3,Graduate,No,4342,189,124,360,1,Semiurban
+211,LP001241,N,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4300,0,136,360,0,Semiurban
+212,LP001164,N,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4230,0,112,360,1,Semiurban
+213,LP001334,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Not Graduate,No,4188,0,115,180,1,Semiurban
+214,LP002804,Y,Female,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,4180,2306,182,360,1,Semiurban
+215,LP001222,N,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4166,0,116,360,0,Semiurban
+216,LP001430,Y,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4166,0,44,360,1,Semiurban
+217,LP002493,N,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4166,0,98,360,0,Semiurban
+218,LP002114,Y,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4160,0,71,360,1,Semiurban
+219,LP001322,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4133,0,122,360,1,Semiurban
+220,LP001931,Y,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4124,0,115,360,1,Semiurban
+221,LP001743,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,4009,1717,116,360,1,Semiurban
+222,LP001151,Y,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,4000,2275,144,360,1,Semiurban
+223,LP001488,N,Male,Yes,"Sukhdev Enclave, New Delhi",3,Graduate,No,4000,7750,290,360,1,Semiurban
+224,LP001903,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3993,3274,207,360,1,Semiurban
+225,LP001131,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3941,2336,134,360,1,Semiurban
+226,LP001914,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3927,800,112,360,1,Semiurban
+227,LP001691,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Not Graduate,No,3917,0,124,360,1,Semiurban
+228,LP001896,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,3900,0,90,360,1,Semiurban
+229,LP002798,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3887,2669,162,360,1,Semiurban
+230,LP002318,N,Female,No,"Sukhdev Enclave, New Delhi",1,Not Graduate,Yes,3867,0,62,360,1,Semiurban
+231,LP002455,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,3859,0,96,360,1,Semiurban
+232,LP001658,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,3858,0,76,360,1,Semiurban
+233,LP001720,Y,Male,Yes,"Sukhdev Enclave, New Delhi",3,Not Graduate,No,3850,983,100,360,1,Semiurban
+234,LP001265,Y,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,3846,0,111,360,1,Semiurban
+235,LP002619,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Not Graduate,No,3814,1483,124,300,1,Semiurban
+236,LP002705,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3775,0,110,360,1,Semiurban
+237,LP001616,Y,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,3750,0,116,360,1,Semiurban
+238,LP001116,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Not Graduate,No,3748,1668,110,360,1,Semiurban
+239,LP001726,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3727,1775,131,360,1,Semiurban
+240,LP002035,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,3717,0,120,360,1,Semiurban
+241,LP002807,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Not Graduate,No,3675,242,108,360,1,Semiurban
+242,LP001112,Y,Female,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3667,1459,144,360,1,Semiurban
+243,LP002408,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,3660,5064,187,360,1,Semiurban
+244,LP001639,Y,Female,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3625,0,108,360,1,Semiurban
+245,LP001325,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Not Graduate,No,3620,0,25,120,1,Semiurban
+246,LP002738,Y,Male,No,"Sukhdev Enclave, New Delhi",2,Graduate,No,3617,0,107,360,1,Semiurban
+247,LP001098,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3500,1667,114,360,1,Semiurban
+248,LP001248,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,3500,0,81,300,1,Semiurban
+249,LP001870,N,Female,No,"Sukhdev Enclave, New Delhi",1,Graduate,No,3481,0,155,36,1,Semiurban
+250,LP001482,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,Yes,3459,0,25,120,1,Semiurban
+251,LP002515,Y,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,Yes,3450,2079,162,360,1,Semiurban
+252,LP001711,N,Male,Yes,"Sukhdev Enclave, New Delhi",3,Graduate,No,3430,1250,128,360,0,Semiurban
+253,LP001702,N,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,3418,0,127,360,1,Semiurban
+254,LP001811,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Not Graduate,No,3406,4417,123,360,1,Semiurban
+255,LP002961,Y,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,3400,2500,173,360,1,Semiurban
+256,LP002768,N,Male,No,"Sukhdev Enclave, New Delhi",0,Not Graduate,No,3358,0,80,36,1,Semiurban
+257,LP002586,Y,Female,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,3326,913,105,84,1,Semiurban
+258,LP001792,Y,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,3315,0,96,360,1,Semiurban
+259,LP002347,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3246,1417,138,360,1,Semiurban
+260,LP002126,Y,Male,Yes,"Sukhdev Enclave, New Delhi",3,Not Graduate,No,3173,0,74,360,1,Semiurban
+261,LP001263,N,Male,Yes,"Sukhdev Enclave, New Delhi",3,Graduate,No,3167,4000,180,300,0,Semiurban
+262,LP001404,Y,Female,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3167,2283,154,360,1,Semiurban
+263,LP002894,Y,Female,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3166,0,36,360,1,Semiurban
+264,LP002606,Y,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,3159,0,100,360,1,Semiurban
+265,LP001778,Y,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,3155,1779,140,360,1,Semiurban
+266,LP001665,N,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,3125,2583,170,360,1,Semiurban
+267,LP001565,N,Male,Yes,"Sukhdev Enclave, New Delhi",1,Graduate,No,3089,1280,121,360,0,Semiurban
+268,LP001157,Y,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,3086,0,120,360,1,Semiurban
+269,LP001014,N,Male,Yes,"Sukhdev Enclave, New Delhi",3,Graduate,No,3036,2504,158,360,0,Semiurban
+270,LP002928,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,3000,3416,56,180,1,Semiurban
+271,LP001744,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,2971,2791,144,360,1,Semiurban
+272,LP001316,Y,Male,Yes,"Sukhdev Enclave, New Delhi",0,Graduate,No,2958,2900,131,360,1,Semiurban
+273,LP001432,Y,Male,Yes,"Sukhdev Enclave, New Delhi",2,Graduate,No,2957,0,81,360,1,Semiurban
+274,LP002098,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Graduate,No,2935,0,98,360,1,Semiurban
+275,LP002004,Y,Male,No,"Sukhdev Enclave, New Delhi",0,Not Graduate,No,2927,2405,111,360,1,Semiurban
+276,LP002002,Y,Female,No,"Park Circus, New Delhi",0,Graduate,No,2917,0,84,360,1,Semiurban
+277,LP002600,Y,Male,Yes,"Park Circus, New Delhi",1,Graduate,Yes,2895,0,95,360,1,Semiurban
+278,LP001824,Y,Male,Yes,"Park Circus, New Delhi",1,Graduate,No,2882,1843,123,480,1,Semiurban
+279,LP001068,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2799,2253,122,360,1,Semiurban
+280,LP001900,Y,Male,Yes,"Park Circus, New Delhi",1,Graduate,No,2750,1842,115,360,1,Semiurban
+281,LP002926,N,Male,Yes,"Park Circus, New Delhi",2,Graduate,Yes,2726,0,106,360,0,Semiurban
+282,LP001478,Y,Male,No,"Park Circus, New Delhi",0,Graduate,No,2718,0,70,360,1,Semiurban
+283,LP001194,Y,Male,Yes,"Park Circus, New Delhi",2,Graduate,No,2708,1167,97,360,1,Semiurban
+284,LP001507,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2698,2034,122,360,1,Semiurban
+285,LP002714,Y,Male,No,"Park Circus, New Delhi",1,Not Graduate,No,2679,1302,94,360,1,Semiurban
+286,LP001843,Y,Male,Yes,"Park Circus, New Delhi",1,Not Graduate,No,2661,7101,279,180,1,Semiurban
+287,LP001894,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2620,2223,150,360,1,Semiurban
+288,LP001047,N,Male,Yes,"Park Circus, New Delhi",0,Not Graduate,No,2600,1911,116,360,0,Semiurban
+289,LP001674,Y,Male,Yes,"Park Circus, New Delhi",1,Not Graduate,No,2600,2500,90,360,1,Semiurban
+290,LP001925,N,Female,No,"Park Circus, New Delhi",0,Graduate,Yes,2600,1717,99,300,1,Semiurban
+291,LP001282,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2500,2118,104,360,1,Semiurban
+292,LP002187,N,Male,No,"Park Circus, New Delhi",0,Graduate,No,2500,0,96,480,1,Semiurban
+293,LP002690,Y,Male,No,"Park Circus, New Delhi",0,Graduate,No,2500,0,55,360,1,Semiurban
+294,LP002129,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2499,2458,160,360,1,Semiurban
+295,LP001765,Y,Male,Yes,"Park Circus, New Delhi",1,Graduate,No,2491,2054,104,360,1,Semiurban
+296,LP001327,Y,Female,Yes,"Park Circus, New Delhi",0,Graduate,No,2484,2302,137,360,1,Semiurban
+297,LP002387,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2425,2340,143,360,1,Semiurban
+298,LP002143,Y,Female,Yes,"Park Circus, New Delhi",0,Graduate,No,2423,505,130,360,1,Semiurban
+299,LP002051,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2400,2167,115,360,1,Semiurban
+300,LP001947,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2383,3334,172,360,1,Semiurban
+301,LP001279,Y,Male,No,"Park Circus, New Delhi",0,Graduate,No,2366,2531,136,360,1,Semiurban
+302,LP002239,Y,Male,No,"Park Circus, New Delhi",0,Not Graduate,No,2346,1600,132,360,1,Semiurban
+303,LP001514,Y,Female,Yes,"Park Circus, New Delhi",0,Graduate,No,2330,4486,100,360,1,Semiurban
+304,LP001579,N,Male,No,"Park Circus, New Delhi",0,Graduate,No,2237,0,63,480,0,Semiurban
+305,LP002689,Y,Male,Yes,"Park Circus, New Delhi",2,Not Graduate,No,2192,1742,45,360,1,Semiurban
+306,LP002917,Y,Female,No,"Park Circus, New Delhi",0,Not Graduate,No,2165,0,70,360,1,Semiurban
+307,LP002335,N,Female,Yes,"Park Circus, New Delhi",0,Not Graduate,No,2149,3237,178,360,0,Semiurban
+308,LP002743,N,Female,No,"Park Circus, New Delhi",0,Graduate,No,2138,0,99,360,0,Semiurban
+309,LP001431,Y,Female,No,"Park Circus, New Delhi",0,Graduate,No,2137,8980,137,360,0,Semiurban
+310,LP001195,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2132,1591,96,360,1,Semiurban
+311,LP002648,N,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2130,6666,70,180,1,Semiurban
+312,LP002537,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,2083,3150,128,360,1,Semiurban
+313,LP001384,Y,Male,Yes,"Park Circus, New Delhi",3,Not Graduate,No,2071,754,94,480,1,Semiurban
+314,LP001868,Y,Male,No,"Park Circus, New Delhi",0,Graduate,No,2060,2209,134,360,1,Semiurban
+315,LP002670,Y,Female,Yes,"Park Circus, New Delhi",2,Graduate,No,2031,1632,113,480,1,Semiurban
+316,LP002265,Y,Male,Yes,"Park Circus, New Delhi",2,Not Graduate,No,1993,1625,113,180,1,Semiurban
+317,LP001333,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,1977,997,50,360,1,Semiurban
+318,LP002300,Y,Female,No,"Park Circus, New Delhi",0,Not Graduate,No,1963,0,53,360,1,Semiurban
+319,LP001155,Y,Female,Yes,"Park Circus, New Delhi",0,Not Graduate,No,1928,1644,100,360,1,Semiurban
+320,LP002398,Y,Male,No,"Park Circus, New Delhi",0,Graduate,No,1926,1851,50,360,1,Semiurban
+321,LP001245,Y,Male,Yes,"Park Circus, New Delhi",2,Not Graduate,Yes,1875,1875,97,360,1,Semiurban
+322,LP001560,Y,Male,Yes,"Park Circus, New Delhi",0,Not Graduate,No,1863,1041,98,360,1,Semiurban
+323,LP001343,Y,Male,Yes,"Park Circus, New Delhi",0,Graduate,No,1759,3541,131,360,1,Semiurban
+324,LP001835,N,Male,Yes,"Park Circus, New Delhi",0,Not Graduate,No,1668,3890,201,360,0,Semiurban
+325,LP002287,N,Female,No,"Park Circus, New Delhi",0,Graduate,No,1500,1800,103,360,0,Semiurban
+326,LP002547,N,Male,Yes,"Naman Enclave, New Delhi",1,Graduate,No,18333,0,500,360,1,Urban
+327,LP002731,Y,Female,No,"Naman Enclave, New Delhi",0,Not Graduate,Yes,18165,0,125,360,1,Urban
+328,LP002855,Y,Male,Yes,"Naman Enclave, New Delhi",2,Graduate,No,16666,0,275,360,1,Urban
+329,LP001844,N,Male,No,"Naman Enclave, New Delhi",0,Graduate,Yes,16250,0,192,360,0,Urban
+330,LP002938,Y,Male,Yes,"Naman Enclave, New Delhi",0,Graduate,Yes,16120,0,260,360,1,Urban
+331,LP001516,Y,Female,Yes,"Naman Enclave, New Delhi",2,Graduate,No,14866,0,70,360,1,Urban
+332,LP002634,Y,Female,No,"Naman Enclave, New Delhi",1,Graduate,No,13262,0,40,360,1,Urban
+333,LP001508,Y,Male,Yes,"Naman Enclave, New Delhi",2,Graduate,No,11757,0,187,180,1,Urban
+334,LP001186,N,Female,Yes,"Naman Enclave, New Delhi",1,Graduate,Yes,11500,0,286,360,0,Urban
+335,LP001369,Y,Male,Yes,"Naman Enclave, New Delhi",2,Graduate,No,11417,1126,225,360,1,Urban
+336,LP001891,Y,Male,Yes,"Naman Enclave, New Delhi",0,Graduate,No,11146,0,136,360,1,Urban
+337,LP001673,N,Male,No,"Naman Enclave, New Delhi",0,Graduate,Yes,11000,0,83,360,1,Urban
+338,LP001233,Y,Male,Yes,"Naman Enclave, New Delhi",1,Graduate,No,10750,0,312,360,1,Urban
+339,LP001451,N,Male,Yes,"Naman Enclave, New Delhi",1,Graduate,Yes,10513,3850,160,180,0,Urban
+340,LP002403,N,Male,No,"Naman Enclave, New Delhi",0,Graduate,Yes,10416,0,187,360,0,Urban
+341,LP001422,Y,Female,No,"Naman Enclave, New Delhi",0,Graduate,No,10408,0,259,360,1,Urban
+342,LP001814,Y,Male,Yes,"Naman Enclave, New Delhi",2,Graduate,No,9703,0,112,360,1,Urban
+343,LP001543,Y,Male,Yes,"Naman Enclave, New Delhi",1,Graduate,No,9538,0,187,360,1,Urban
+344,LP001572,Y,Male,Yes,"Naman Enclave, New Delhi",0,Graduate,No,9323,0,75,180,1,Urban
+345,LP001531,N,Male,No,"Naman Enclave, New Delhi",0,Graduate,No,9166,0,244,360,1,Urban
+346,LP002832,N,Male,Yes,"Naman Enclave, New Delhi",2,Graduate,No,8799,0,258,360,0,Urban
+347,LP001289,Y,Male,No,"Naman Enclave, New Delhi",0,Graduate,No,8566,0,210,360,1,Urban
+348,LP001198,Y,Male,Yes,"Naman Enclave, New Delhi",1,Graduate,No,8080,2250,180,360,1,Urban
+349,LP002983,Y,Male,Yes,"Naman Enclave, New Delhi",1,Graduate,No,8072,240,253,360,1,Urban
+350,LP001562,N,Male,Yes,"Naman Enclave, New Delhi",0,Graduate,No,7933,0,275,360,1,Urban
+351,LP001713,Y,Male,Yes,"Naman Enclave, New Delhi",1,Graduate,Yes,7787,0,240,360,1,Urban
+352,LP002484,Y,Male,Yes,"Naman Enclave, New Delhi",3,Graduate,No,7740,0,128,180,1,Urban
+353,LP001043,N,Male,Yes,"Naman Enclave, New Delhi",0,Not Graduate,No,7660,0,104,360,0,Urban
+354,LP002984,Y,Male,Yes,"Naman Enclave, New Delhi",2,Graduate,No,7583,0,187,360,1,Urban
+355,LP002234,Y,Male,No,"Naman Enclave, New Delhi",0,Graduate,Yes,7167,0,128,360,1,Urban
+356,LP001238,Y,Male,Yes,"Naman Enclave, New Delhi",3,Not Graduate,Yes,7100,0,125,60,1,Urban
+357,LP001819,Y,Male,Yes,"Naman Enclave, New Delhi",1,Not Graduate,No,6608,0,137,180,1,Urban
+358,LP001633,N,Male,Yes,"Naman Enclave, New Delhi",1,Graduate,No,6400,7250,180,360,0,Urban
+359,LP002734,Y,Male,Yes,"Naman Enclave, New Delhi",0,Graduate,No,6133,3906,324,360,1,Urban
+360,LP001813,N,Male,No,"Naman Enclave, New Delhi",0,Graduate,Yes,6050,4333,120,180,1,Urban
+361,LP001657,N,Male,Yes,"Naman Enclave, New Delhi",0,Not Graduate,No,6033,0,160,360,1,Urban
+362,LP001008,Y,Male,No,"Naman Enclave, New Delhi",0,Graduate,No,6000,0,141,360,1,Urban
+363,LP002231,Y,Female,No,"Naman Enclave, New Delhi",0,Graduate,No,6000,0,156,360,1,Urban
+364,LP001046,Y,Male,Yes,"Naman Enclave, New Delhi",1,Graduate,No,5955,5625,315,360,1,Urban
+365,LP001144,Y,Male,Yes,"Naman Enclave, New Delhi",0,Graduate,No,5821,0,144,360,1,Urban
+366,LP002948,Y,Male,Yes,"Naman Enclave, New Delhi",2,Graduate,No,5780,0,192,360,1,Urban
+367,LP002953,Y,Male,Yes,"Naman Enclave, New Delhi",3,Graduate,No,5703,0,128,360,1,Urban
+368,LP001138,Y,Male,Yes,"Naman Enclave, New Delhi",1,Graduate,No,5649,0,44,360,1,Urban
+369,LP001011,Y,Male,Yes,"Naman Enclave, New Delhi",2,Graduate,Yes,5417,4196,267,360,1,Urban
+370,LP001498,Y,Male,No,"Naman Enclave, New Delhi",0,Graduate,No,5417,0,168,360,1,Urban
+371,LP002225,Y,Male,Yes,"Naman Enclave, New Delhi",2,Graduate,No,5391,0,130,360,1,Urban
+372,LP001385,Y,Male,No,"Naman Enclave, New Delhi",0,Graduate,No,5316,0,136,360,1,Urban
+373,LP001854,N,Male,Yes,"Naman Enclave, New Delhi",3,Graduate,No,5250,0,94,360,1,Urban
+374,LP001032,Y,Male,No,"Naman Enclave, New Delhi",0,Graduate,No,4950,0,125,360,1,Urban
+375,LP002211,Y,Male,Yes,"Naman Enclave, New Delhi",0,Graduate,No,4817,923,120,180,1,Urban
+376,LP002175,Y,Male,Yes,"Naman Enclave, New Delhi",0,Graduate,No,4750,2333,130,360,1,Urban
+377,LP001954,Y,Female,Yes,"Hari Vihar, New Delhi",1,Graduate,No,4666,0,135,360,1,Urban
+378,LP001179,N,Male,Yes,"Hari Vihar, New Delhi",2,Graduate,No,4616,0,134,360,1,Urban
+379,LP002236,N,Male,Yes,"Hari Vihar, New Delhi",2,Graduate,No,4566,0,100,360,1,Urban
+380,LP002119,Y,Male,Yes,"Hari Vihar, New Delhi",1,Not Graduate,No,4554,1229,158,360,1,Urban
+381,LP002097,Y,Male,No,"Hari Vihar, New Delhi",1,Graduate,No,4384,1793,117,360,1,Urban
+382,LP001882,Y,Male,Yes,"Hari Vihar, New Delhi",3,Graduate,No,4333,1811,160,360,0,Urban
+383,LP002086,N,Female,Yes,"Hari Vihar, New Delhi",0,Graduate,No,4333,2451,110,360,1,Urban
+384,LP002505,N,Male,Yes,"Hari Vihar, New Delhi",0,Graduate,No,4333,2451,110,360,1,Urban
+385,LP002459,Y,Male,Yes,"Hari Vihar, New Delhi",0,Graduate,No,4301,0,118,360,1,Urban
+386,LP001345,Y,Male,Yes,"Hari Vihar, New Delhi",2,Not Graduate,No,4288,3263,133,180,1,Urban
+387,LP002720,Y,Male,Yes,"Hari Vihar, New Delhi",3,Graduate,No,4281,0,100,360,1,Urban
+388,LP001073,Y,Male,Yes,"Hari Vihar, New Delhi",2,Not Graduate,No,4226,1040,110,360,1,Urban
+389,LP001114,Y,Male,No,"Hari Vihar, New Delhi",0,Graduate,No,4166,7210,184,360,1,Urban
+390,LP001910,N,Male,No,"Hari Vihar, New Delhi",1,Not Graduate,Yes,4053,2426,158,360,0,Urban
+391,LP001018,Y,Male,Yes,"Hari Vihar, New Delhi",2,Graduate,No,4006,1526,168,360,1,Urban
+392,LP001275,Y,Male,Yes,"Hari Vihar, New Delhi",1,Graduate,No,3988,0,50,240,1,Urban
+393,LP002151,N,Male,Yes,"Hari Vihar, New Delhi",1,Graduate,No,3875,0,67,360,1,Urban
+394,LP001379,N,Male,Yes,"Hari Vihar, New Delhi",2,Graduate,No,3800,3600,216,360,0,Urban
+395,LP001255,N,Male,No,"Hari Vihar, New Delhi",0,Graduate,No,3750,0,113,480,1,Urban
+396,LP001256,N,Male,No,"Hari Vihar, New Delhi",0,Graduate,No,3750,4750,176,360,1,Urban
+397,LP002390,Y,Male,No,"Hari Vihar, New Delhi",0,Graduate,No,3750,0,100,360,1,Urban
+398,LP002467,N,Male,Yes,"Hari Vihar, New Delhi",0,Graduate,No,3708,2569,173,360,1,Urban
+399,LP001119,N,Male,No,"Hari Vihar, New Delhi",0,Graduate,No,3600,0,80,360,1,Urban
+400,LP001036,N,Female,No,"Hari Vihar, New Delhi",0,Graduate,No,3510,0,76,360,0,Urban
+401,LP001688,Y,Male,Yes,"Hari Vihar, New Delhi",1,Not Graduate,No,3500,1083,135,360,1,Urban
+402,LP001836,N,Female,No,"Hari Vihar, New Delhi",2,Graduate,No,3427,0,138,360,1,Urban
+403,LP002842,Y,Male,Yes,"Hari Vihar, New Delhi",1,Graduate,No,3417,1750,186,360,1,Urban
+404,LP002031,Y,Male,Yes,"Hari Vihar, New Delhi",1,Not Graduate,No,3399,1640,111,180,1,Urban
+405,LP001199,Y,Male,Yes,"Hari Vihar, New Delhi",2,Not Graduate,No,3357,2859,144,360,1,Urban
+406,LP002785,Y,Male,Yes,"Hari Vihar, New Delhi",1,Graduate,No,3333,3250,158,360,1,Urban
+407,LP002836,Y,Male,No,"Hari Vihar, New Delhi",0,Graduate,No,3333,0,70,360,1,Urban
+408,LP001491,Y,Male,Yes,"Hari Vihar, New Delhi",2,Graduate,Yes,3316,3500,88,360,1,Urban
+409,LP002643,Y,Male,Yes,"Hari Vihar, New Delhi",2,Graduate,No,3283,2035,148,360,1,Urban
+410,LP001319,Y,Male,Yes,"Hari Vihar, New Delhi",2,Not Graduate,No,3273,1820,81,360,1,Urban
+411,LP001535,Y,Male,No,"Hari Vihar, New Delhi",0,Graduate,No,3254,0,50,360,1,Urban
+412,LP001693,Y,Female,No,"Hari Vihar, New Delhi",0,Graduate,No,3244,0,80,360,1,Urban
+413,LP001888,Y,Female,No,"Tibetan Colony, New Delhi",0,Graduate,No,3237,0,30,360,1,Urban
+414,LP002874,Y,Male,No,"Tibetan Colony, New Delhi",0,Graduate,No,3229,2739,110,360,1,Urban
+415,LP001243,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,No,3208,3066,172,360,1,Urban
+416,LP001024,Y,Male,Yes,"Tibetan Colony, New Delhi",2,Graduate,No,3200,700,70,360,1,Urban
+417,LP001228,N,Male,No,"Tibetan Colony, New Delhi",0,Not Graduate,No,3200,2254,126,180,0,Urban
+418,LP002277,N,Female,No,"Tibetan Colony, New Delhi",0,Graduate,No,3180,0,71,360,0,Urban
+419,LP001716,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,No,3173,3021,137,360,1,Urban
+420,LP001095,N,Male,No,"Tibetan Colony, New Delhi",0,Graduate,No,3167,0,74,360,1,Urban
+421,LP002841,N,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,No,3166,2064,104,360,0,Urban
+422,LP002868,Y,Male,Yes,"Tibetan Colony, New Delhi",2,Graduate,No,3159,461,108,84,1,Urban
+423,LP001940,Y,Male,Yes,"Tibetan Colony, New Delhi",2,Graduate,No,3153,1560,134,360,1,Urban
+424,LP001904,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,No,3103,1300,80,360,1,Urban
+425,LP002266,Y,Male,Yes,"Tibetan Colony, New Delhi",2,Graduate,No,3100,1400,113,360,1,Urban
+426,LP002131,Y,Male,Yes,"Tibetan Colony, New Delhi",2,Not Graduate,No,3083,2168,126,360,1,Urban
+427,LP001028,Y,Male,Yes,"Tibetan Colony, New Delhi",2,Graduate,No,3073,8106,200,360,1,Urban
+428,LP002224,N,Male,No,"Tibetan Colony, New Delhi",0,Graduate,No,3069,0,71,480,1,Urban
+429,LP002205,N,Male,No,"Tibetan Colony, New Delhi",1,Graduate,No,3062,1987,111,180,0,Urban
+430,LP001367,Y,Male,Yes,"Tibetan Colony, New Delhi",1,Graduate,No,3052,1030,100,360,1,Urban
+431,LP002281,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,No,3033,1459,95,360,1,Urban
+432,LP001206,Y,Male,Yes,"Tibetan Colony, New Delhi",3,Graduate,No,3029,0,99,360,1,Urban
+433,LP001005,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,Yes,3000,0,66,360,1,Urban
+434,LP002158,N,Male,Yes,"Tibetan Colony, New Delhi",0,Not Graduate,No,3000,1666,100,480,0,Urban
+435,LP002337,Y,Female,No,"Tibetan Colony, New Delhi",0,Graduate,No,2995,0,60,360,1,Urban
+436,LP001806,Y,Male,No,"Tibetan Colony, New Delhi",0,Graduate,No,2965,5701,155,60,1,Urban
+437,LP002500,N,Male,Yes,"Tibetan Colony, New Delhi",3,Not Graduate,No,2947,1664,70,180,0,Urban
+438,LP002288,N,Male,Yes,"Tibetan Colony, New Delhi",2,Not Graduate,No,2889,0,45,180,0,Urban
+439,LP001884,Y,Female,No,"Tibetan Colony, New Delhi",1,Graduate,No,2876,1560,90,360,1,Urban
+440,LP002370,Y,Male,No,"Tibetan Colony, New Delhi",0,Not Graduate,No,2717,0,60,180,1,Urban
+441,LP001146,N,Female,Yes,"Tibetan Colony, New Delhi",0,Graduate,No,2645,3440,120,360,0,Urban
+442,LP002341,N,Female,No,"Tibetan Colony, New Delhi",1,Graduate,No,2600,0,160,360,1,Urban
+443,LP001006,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Not Graduate,No,2583,2358,120,360,1,Urban
+444,LP001800,N,Male,Yes,"Tibetan Colony, New Delhi",1,Not Graduate,No,2510,1983,140,180,1,Urban
+445,LP001205,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,No,2500,3796,120,360,1,Urban
+446,LP002087,Y,Female,No,"Tibetan Colony, New Delhi",0,Graduate,No,2500,0,67,360,1,Urban
+447,LP001699,Y,Male,No,"Tibetan Colony, New Delhi",0,Graduate,No,2479,0,59,360,1,Urban
+448,LP002626,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,Yes,2479,3013,188,360,1,Urban
+449,LP002788,N,Male,Yes,"Tibetan Colony, New Delhi",0,Not Graduate,No,2454,2333,181,360,0,Urban
+450,LP002556,N,Male,No,"Tibetan Colony, New Delhi",0,Graduate,No,2435,0,75,360,1,Urban
+451,LP001994,N,Female,No,"Tibetan Colony, New Delhi",0,Graduate,No,2400,1863,104,360,0,Urban
+452,LP002840,N,Female,No,"Tibetan Colony, New Delhi",0,Graduate,No,2378,0,9,360,1,Urban
+453,LP001013,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Not Graduate,No,2333,1516,95,360,1,Urban
+454,LP001630,N,Male,No,"Tibetan Colony, New Delhi",0,Not Graduate,No,2333,1451,102,480,0,Urban
+455,LP002244,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,No,2333,2417,136,360,1,Urban
+456,LP001915,Y,Male,Yes,"Tibetan Colony, New Delhi",2,Graduate,No,2301,985,78,180,1,Urban
+457,LP002916,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,No,2297,1522,104,360,1,Urban
+458,LP002755,Y,Male,Yes,"Tibetan Colony, New Delhi",1,Not Graduate,No,2239,2524,128,360,1,Urban
+459,LP001736,N,Male,Yes,"Tibetan Colony, New Delhi",0,Graduate,No,2221,0,60,360,0,Urban
+460,LP002308,Y,Male,Yes,"Tibetan Colony, New Delhi",0,Not Graduate,No,2167,2400,115,360,1,Urban
+461,LP001473,Y,Male,No,"Karimpur, New Delhi",0,Graduate,No,2014,1929,74,360,1,Urban
+462,LP001963,N,Male,Yes,"Karimpur, New Delhi",1,Graduate,No,2014,2925,113,360,1,Urban
+463,LP002361,Y,Male,Yes,"Karimpur, New Delhi",0,Graduate,No,1820,1719,100,360,1,Urban
+464,LP001917,Y,Female,No,"Karimpur, New Delhi",0,Graduate,No,1811,1666,54,360,1,Urban
+465,LP001825,Y,Male,Yes,"Karimpur, New Delhi",0,Graduate,No,1809,1868,90,360,1,Urban
+466,LP001120,Y,Male,No,"Karimpur, New Delhi",0,Graduate,No,1800,1213,47,360,1,Urban
+467,LP001964,N,Male,Yes,"Karimpur, New Delhi",0,Not Graduate,No,1800,2934,93,360,0,Urban
+468,LP001977,Y,Male,Yes,"Karimpur, New Delhi",1,Graduate,No,1625,1803,96,360,1,Urban
+469,LP001518,Y,Male,Yes,"Karimpur, New Delhi",1,Graduate,No,1538,1425,30,360,1,Urban
+470,LP001086,N,Male,No,"Karimpur, New Delhi",0,Not Graduate,No,1442,0,35,360,1,Urban
+471,LP001267,N,Female,Yes,"Karimpur, New Delhi",2,Graduate,No,1378,1881,167,360,1,Urban
+472,LP001030,Y,Male,Yes,"Karimpur, New Delhi",2,Graduate,No,1299,1086,17,120,1,Urban
+473,LP001259,N,Male,Yes,"Karimpur, New Delhi",1,Graduate,Yes,1000,3022,110,360,1,Urban
+474,LP002990,N,Female,No,"Sukhdev Enclave, New Delhi",0,Graduate,Yes,4583,0,133,360,0,Semiurban
+475,LP100000,N,Male,No,District 9,0,Graduate,No,18736,543,290,360,1,Semiurban
+476,LP100001,N,Male,Yes,District 9,0,Graduate,No,17495,713,220,360,1,Semiurban
+477,LP100002,N,Male,Yes,District 9,0,Graduate,No,16340,759,182,360,1,Semiurban
+478,LP100003,N,Female,Yes,District 9,0,Graduate,No,16869,517,148,360,1,Semiurban
+479,LP100004,N,Male,Yes,District 9,0,Graduate,No,16606,567,171,360,1,Semiurban
+480,LP100005,N,Male,No,District 9,0,Graduate,No,15912,746,155,360,1,Semiurban
+481,LP100006,N,Male,No,District 9,0,Graduate,No,19712,543,288,360,1,Semiurban
+482,LP100007,N,Male,Yes,District 9,0,Graduate,No,17475,849,200,360,1,Semiurban
+483,LP100008,N,Male,No,District 9,0,Graduate,No,15337,699,102,360,1,Semiurban
+484,LP100009,N,Male,No,District 9,0,Graduate,No,16795,891,186,360,1,Semiurban
+485,LP100010,N,Male,Yes,District 9,0,Graduate,No,19981,601,128,360,1,Semiurban
+486,LP100011,N,Female,No,District 9,0,Graduate,No,17764,898,187,360,1,Semiurban
+487,LP100012,Y,Male,Yes,District 9,0,Graduate,No,17592,773,290,360,1,Semiurban
+488,LP100013,N,Male,No,District 9,0,Graduate,No,15194,901,278,360,1,Semiurban
+489,LP100014,N,Male,No,District 9,0,Graduate,No,18520,693,274,360,1,Semiurban
+490,LP100015,N,Female,No,District 9,0,Graduate,No,15618,614,263,360,1,Semiurban
+491,LP100016,N,Male,Yes,District 9,0,Graduate,No,18738,723,260,360,1,Semiurban
+492,LP100017,Y,Male,Yes,District 9,0,Graduate,No,18481,533,149,360,1,Semiurban
+493,LP100018,N,Male,Yes,District 9,0,Graduate,No,17544,959,113,360,1,Semiurban
+494,LP100019,N,Male,Yes,District 9,0,Graduate,No,19646,613,164,360,1,Semiurban
+495,LP100020,N,Female,No,District 9,0,Graduate,No,15625,882,269,360,1,Semiurban
+496,LP100021,N,Male,Yes,District 9,0,Graduate,No,18849,707,250,360,1,Semiurban
+497,LP100022,N,Male,No,District 9,0,Graduate,No,15877,733,198,360,1,Semiurban
+498,LP100023,N,Male,No,District 9,0,Graduate,No,18697,811,262,360,1,Semiurban
+499,LP100024,N,Female,Yes,District 9,0,Graduate,No,17214,645,220,360,1,Semiurban
+500,LP100025,N,Male,Yes,District 9,0,Graduate,No,17915,736,191,360,1,Semiurban
+501,LP100026,N,Male,Yes,District 9,0,Graduate,No,17991,724,188,360,1,Semiurban
+502,LP100027,N,Male,Yes,District 9,0,Graduate,No,19275,531,224,360,1,Semiurban
+503,LP100028,N,Male,No,District 9,0,Graduate,No,15414,780,146,360,1,Semiurban
+504,LP100029,N,Male,Yes,District 9,0,Graduate,No,17233,732,294,360,1,Semiurban
+505,LP100030,N,Male,No,District 9,0,Graduate,No,15578,719,236,360,1,Semiurban
+506,LP100031,N,Male,Yes,District 9,0,Graduate,No,16095,802,123,360,1,Semiurban
+507,LP100032,N,Female,No,District 9,0,Graduate,No,19452,558,200,360,1,Semiurban
+508,LP100033,N,Male,Yes,District 9,0,Graduate,No,15097,672,197,360,1,Semiurban
+509,LP100034,N,Male,Yes,District 9,0,Graduate,No,15830,544,179,360,1,Semiurban
+510,LP100035,N,Male,Yes,District 9,0,Graduate,No,18901,601,296,360,1,Semiurban
+511,LP100036,N,Female,No,District 9,0,Graduate,No,17568,866,191,360,1,Semiurban
+512,LP100037,N,Male,Yes,District 9,0,Graduate,No,19738,572,234,360,1,Semiurban
+513,LP100038,N,Male,No,District 9,0,Graduate,No,17033,560,120,360,1,Semiurban
+514,LP100039,N,Male,Yes,District 9,0,Graduate,No,16711,668,165,360,1,Semiurban
+515,LP100040,N,Male,Yes,District 9,0,Graduate,No,16836,915,215,360,1,Semiurban
+516,LP100041,N,Female,No,District 9,0,Graduate,No,16962,872,234,360,1,Semiurban
+517,LP100042,N,Male,Yes,District 9,0,Graduate,No,17932,651,185,360,1,Semiurban
+518,LP100043,N,Male,No,District 9,0,Graduate,No,19960,620,282,360,1,Semiurban
+519,LP100044,N,Male,Yes,District 9,0,Graduate,No,18129,832,164,360,1,Semiurban
+520,LP100045,N,Female,Yes,District 9,0,Graduate,No,15931,865,292,360,1,Semiurban
+521,LP100046,N,Male,No,District 9,0,Graduate,No,17090,895,284,360,1,Semiurban
+522,LP100047,N,Male,Yes,District 9,0,Graduate,No,17084,644,194,360,1,Semiurban
+523,LP100048,N,Male,No,District 9,0,Graduate,No,16420,709,216,360,1,Semiurban
+524,LP100049,N,Male,No,District 9,0,Graduate,No,18843,823,267,360,1,Semiurban
+525,LP100050,N,Male,No,District 9,0,Graduate,No,18320,817,230,360,1,Semiurban
+526,LP100051,N,Male,No,District 9,0,Graduate,No,19939,571,106,360,1,Semiurban
+527,LP100052,N,Male,Yes,District 9,0,Graduate,No,19342,502,128,360,1,Semiurban
+528,LP100053,N,Female,No,District 9,0,Graduate,No,17555,563,178,360,1,Semiurban
+529,LP100054,N,Male,No,District 9,0,Graduate,No,15413,572,130,360,1,Semiurban
+530,LP100055,N,Male,Yes,District 9,0,Graduate,No,19055,556,270,360,1,Semiurban
+531,LP100056,N,Male,No,District 9,0,Graduate,No,17289,589,269,360,1,Semiurban
+532,LP100057,N,Female,Yes,District 9,0,Graduate,No,17223,710,141,360,1,Semiurban
+533,LP100058,N,Male,No,District 9,0,Graduate,No,15792,609,120,360,1,Semiurban
+534,LP100059,N,Male,No,District 9,0,Graduate,No,18299,859,215,360,1,Semiurban
+535,LP100060,N,Male,Yes,District 9,0,Graduate,No,19694,944,250,360,1,Semiurban
+536,LP100061,N,Male,No,District 9,0,Graduate,No,17011,743,185,360,1,Semiurban
+537,LP100062,N,Female,No,District 9,0,Graduate,No,16182,682,177,360,1,Semiurban
+538,LP100063,N,Male,No,District 9,0,Graduate,No,16867,754,177,360,1,Semiurban
+539,LP100064,N,Male,Yes,District 9,0,Graduate,No,15220,894,107,360,1,Semiurban
+540,LP100065,N,Male,No,District 9,0,Graduate,No,19406,893,269,360,1,Semiurban
+541,LP100066,N,Female,No,District 9,0,Graduate,No,17627,907,242,360,1,Semiurban
+542,LP100067,N,Male,No,District 9,0,Graduate,No,17896,686,220,360,1,Semiurban
+543,LP100068,N,Male,Yes,District 9,0,Graduate,No,18817,994,298,360,1,Semiurban
+544,LP100069,N,Male,No,District 9,0,Graduate,No,17695,971,259,360,1,Semiurban
+545,LP100070,N,Male,Yes,District 9,0,Graduate,No,17988,862,177,360,1,Semiurban
+546,LP100071,Y,Male,Yes,District 9,0,Graduate,No,15256,510,294,360,1,Semiurban
+547,LP100072,N,Male,No,District 9,0,Graduate,No,19783,566,150,360,1,Semiurban
+548,LP100073,N,Male,No,District 9,0,Graduate,No,15982,516,153,360,1,Semiurban
+549,LP100074,N,Female,Yes,District 9,0,Graduate,No,19268,549,181,360,1,Semiurban
+550,LP100075,N,Male,Yes,District 9,0,Graduate,No,18259,821,215,360,1,Semiurban
+551,LP100076,N,Male,Yes,District 9,0,Graduate,No,17814,665,274,360,1,Semiurban
+552,LP100077,N,Male,No,District 9,0,Graduate,No,19563,868,223,360,1,Semiurban
+553,LP100078,N,Female,Yes,District 9,0,Graduate,No,18668,762,177,360,1,Semiurban
+554,LP100079,N,Male,Yes,District 9,0,Graduate,No,19096,810,238,360,1,Semiurban
+555,LP100080,N,Male,Yes,District 9,0,Graduate,No,15262,544,242,360,1,Semiurban
+556,LP100081,N,Male,Yes,District 9,0,Graduate,No,19710,516,141,360,1,Semiurban
+557,LP100082,N,Male,No,District 9,0,Graduate,No,16631,889,216,360,1,Semiurban
+558,LP100083,N,Female,No,District 9,0,Graduate,No,17600,678,162,360,1,Semiurban
+559,LP100084,N,Male,Yes,District 9,0,Graduate,No,17409,691,197,360,1,Semiurban
+560,LP100085,N,Male,No,District 9,0,Graduate,No,19526,852,172,360,1,Semiurban
+561,LP100086,N,Male,No,District 9,0,Graduate,No,17619,902,150,360,1,Semiurban
+562,LP100087,N,Female,Yes,District 9,0,Graduate,No,16839,882,279,360,1,Semiurban
+563,LP100088,N,Male,No,District 9,0,Graduate,No,15456,592,187,360,1,Semiurban
+564,LP100089,N,Male,Yes,District 9,0,Graduate,No,19987,902,245,360,1,Semiurban
+565,LP100090,N,Male,No,District 9,0,Graduate,No,17444,607,145,360,1,Semiurban
+566,LP100091,N,Male,Yes,District 9,0,Graduate,No,15316,784,240,360,1,Semiurban
+567,LP100092,N,Male,Yes,District 9,0,Graduate,No,16367,648,190,360,1,Semiurban
+568,LP100093,N,Male,No,District 9,0,Graduate,No,16850,868,110,360,1,Semiurban
+569,LP100094,N,Male,No,District 9,0,Graduate,No,16375,792,223,360,1,Semiurban
+570,LP100095,N,Female,No,District 9,0,Graduate,No,17691,777,274,360,1,Semiurban
+571,LP100096,N,Male,No,District 9,0,Graduate,No,15744,867,284,360,1,Semiurban
+572,LP100097,N,Male,Yes,District 9,0,Graduate,No,17046,675,241,360,1,Semiurban
+573,LP100098,N,Male,No,District 9,0,Graduate,No,16672,592,233,360,1,Semiurban
+574,LP100099,N,Female,Yes,District 9,0,Graduate,No,17509,938,166,360,1,Semiurban
+575,LP100100,N,Male,Yes,District 9,0,Graduate,No,17527,639,169,360,1,Semiurban
+576,LP100101,N,Male,No,District 9,0,Graduate,No,18475,929,216,360,1,Semiurban
+577,LP100102,N,Male,No,District 9,0,Graduate,No,19112,820,233,360,1,Semiurban
+578,LP100103,N,Male,No,District 9,0,Graduate,No,15854,505,124,360,1,Semiurban
+579,LP100104,N,Female,Yes,District 9,0,Graduate,No,19018,813,243,360,1,Semiurban
+580,LP100105,N,Male,No,District 9,0,Graduate,No,18077,819,198,360,1,Semiurban
+581,LP100106,N,Male,No,District 9,0,Graduate,No,19786,872,191,360,1,Semiurban
+582,LP100107,N,Male,No,District 9,0,Graduate,No,16906,929,275,360,1,Semiurban
+583,LP100108,N,Female,Yes,District 9,0,Graduate,No,19852,848,150,360,1,Semiurban
+584,LP100109,N,Male,Yes,District 9,0,Graduate,No,19965,724,214,360,1,Semiurban
+585,LP100110,N,Male,Yes,District 9,0,Graduate,No,17050,653,174,360,1,Semiurban
+586,LP100111,N,Male,Yes,District 9,0,Graduate,No,15978,733,132,360,1,Semiurban
+587,LP100112,N,Male,Yes,District 9,0,Graduate,No,19316,607,209,360,1,Semiurban
+588,LP100113,N,Male,Yes,District 9,0,Graduate,No,15760,500,219,360,1,Semiurban
+589,LP100114,N,Male,Yes,District 9,0,Graduate,No,15297,516,134,360,1,Semiurban
+590,LP100115,N,Male,No,District 9,0,Graduate,No,16475,540,192,360,1,Semiurban
+591,LP100116,N,Female,No,District 9,0,Graduate,No,17403,576,249,360,1,Semiurban
+592,LP100117,N,Male,No,District 9,0,Graduate,No,15025,821,207,360,1,Semiurban
+593,LP100118,Y,Male,Yes,District 9,0,Graduate,No,18108,880,156,360,1,Semiurban
+594,LP100119,N,Male,No,District 9,0,Graduate,No,15429,640,206,360,1,Semiurban
+595,LP100120,N,Female,Yes,District 9,0,Graduate,No,15355,555,161,360,1,Semiurban
+596,LP100121,N,Male,No,District 9,0,Graduate,No,17663,626,144,360,1,Semiurban
+597,LP100122,N,Male,No,District 9,0,Graduate,No,15910,933,107,360,1,Semiurban
+598,LP100123,N,Male,No,District 9,0,Graduate,No,16117,865,149,360,1,Semiurban
+599,LP100124,N,Male,Yes,District 9,0,Graduate,No,16615,546,272,360,1,Semiurban
+600,LP100125,N,Female,Yes,District 9,0,Graduate,No,17842,656,111,360,1,Semiurban
+601,LP100126,N,Male,Yes,District 9,0,Graduate,No,15377,953,217,360,1,Semiurban
+602,LP100127,N,Male,Yes,District 9,0,Graduate,No,15396,501,246,360,1,Semiurban
+603,LP100128,N,Male,No,District 9,0,Graduate,No,19846,943,116,360,1,Semiurban
+604,LP100129,N,Female,No,District 9,0,Graduate,No,17321,994,288,360,1,Semiurban
+605,LP100130,N,Male,Yes,District 9,0,Graduate,No,16500,959,235,360,1,Semiurban
+606,LP100131,N,Male,No,District 9,0,Graduate,No,16723,936,113,360,1,Semiurban
+607,LP100132,N,Male,Yes,District 9,0,Graduate,No,15465,808,245,360,1,Semiurban
+608,LP100133,N,Male,No,District 9,0,Graduate,No,18495,994,145,360,1,Semiurban
+609,LP100134,N,Male,No,District 9,0,Graduate,No,18550,834,291,360,1,Semiurban
+610,LP100135,N,Male,No,District 9,0,Graduate,No,17088,588,196,360,1,Semiurban
+611,LP100136,N,Male,Yes,District 9,0,Graduate,No,16040,824,161,360,1,Semiurban
+612,LP100137,N,Female,No,District 9,0,Graduate,No,17691,525,147,360,1,Semiurban
+613,LP100138,N,Male,Yes,District 9,0,Graduate,No,17761,886,165,360,1,Semiurban
+614,LP100139,N,Male,No,District 9,0,Graduate,No,16967,653,167,360,1,Semiurban
+615,LP100140,N,Male,No,District 9,0,Graduate,No,17893,724,250,360,1,Semiurban
+616,LP100141,N,Female,Yes,District 9,0,Graduate,No,18739,994,100,360,1,Semiurban
+617,LP100142,N,Male,No,District 9,0,Graduate,No,15584,755,123,360,1,Semiurban
+618,LP100143,N,Male,Yes,District 9,0,Graduate,No,16275,597,117,360,1,Semiurban
+619,LP100144,N,Male,Yes,District 9,0,Graduate,No,18964,726,128,360,1,Semiurban
+620,LP100145,N,Male,Yes,District 9,0,Graduate,No,19051,944,144,360,1,Semiurban
+621,LP100146,N,Female,No,District 9,0,Graduate,No,17590,732,201,360,1,Semiurban
+622,LP100147,N,Male,Yes,District 9,0,Graduate,No,17141,948,168,360,1,Semiurban
+623,LP100148,N,Male,No,District 9,0,Graduate,No,15292,939,143,360,1,Semiurban
+624,LP100149,Y,Male,No,District 9,0,Graduate,No,15896,926,185,360,1,Semiurban
+625,LP100150,N,Female,No,District 9,0,Graduate,No,18748,738,215,360,1,Semiurban
+626,LP100151,N,Male,No,District 9,0,Graduate,No,17711,671,237,360,1,Semiurban
+627,LP100152,N,Male,Yes,District 9,0,Graduate,No,18495,628,265,360,1,Semiurban
+628,LP100153,N,Male,No,District 9,0,Graduate,No,16800,588,297,360,1,Semiurban
+629,LP100154,N,Male,Yes,District 9,0,Graduate,No,17441,769,260,360,1,Semiurban
+630,LP100155,N,Male,No,District 9,0,Graduate,No,18616,996,211,360,1,Semiurban
+631,LP100156,N,Male,No,District 9,0,Graduate,No,19258,703,173,360,1,Semiurban
+632,LP100157,N,Male,No,District 9,0,Graduate,No,15970,653,289,360,1,Semiurban
+633,LP100158,N,Female,Yes,District 9,0,Graduate,No,18615,652,140,360,1,Semiurban
+634,LP100159,N,Male,No,District 9,0,Graduate,No,19491,730,195,360,1,Semiurban
+635,LP100160,N,Male,Yes,District 9,0,Graduate,No,19686,791,298,360,1,Semiurban
+636,LP100161,N,Male,No,District 9,0,Graduate,No,16141,761,138,360,1,Semiurban
+637,LP100162,N,Female,Yes,District 9,0,Graduate,No,17718,585,133,360,1,Semiurban
+638,LP100163,N,Male,No,District 9,0,Graduate,No,15833,954,117,360,1,Semiurban
+639,LP100164,N,Male,Yes,District 9,0,Graduate,No,17225,937,235,360,1,Semiurban
+640,LP100165,N,Male,No,District 9,0,Graduate,No,15984,689,246,360,1,Semiurban
+641,LP100166,N,Male,No,District 9,0,Graduate,No,15117,623,130,360,1,Semiurban
+642,LP100167,N,Female,No,District 9,0,Graduate,No,19794,975,106,360,1,Semiurban
+643,LP100168,N,Male,No,District 9,0,Graduate,No,15811,694,254,360,1,Semiurban
+644,LP100169,N,Male,Yes,District 9,0,Graduate,No,15409,979,137,360,1,Semiurban
+645,LP100170,N,Male,Yes,District 9,0,Graduate,No,19033,690,263,360,1,Semiurban
+646,LP100171,N,Female,Yes,District 9,0,Graduate,No,18490,719,146,360,1,Semiurban
+647,LP100172,N,Male,No,District 9,0,Graduate,No,18600,643,143,360,1,Semiurban
+648,LP100173,N,Male,No,District 9,0,Graduate,No,16744,725,121,360,1,Semiurban
+649,LP100174,N,Male,Yes,District 9,0,Graduate,No,19928,561,204,360,1,Semiurban
+650,LP100175,Y,Male,No,District 9,0,Graduate,No,19811,598,135,360,1,Semiurban
+651,LP100176,Y,Male,Yes,District 9,0,Graduate,No,18867,887,185,360,1,Semiurban
+652,LP100177,N,Male,No,District 9,0,Graduate,No,17613,731,264,360,1,Semiurban
+653,LP100178,N,Male,Yes,District 9,0,Graduate,No,16528,912,198,360,1,Semiurban
+654,LP100179,N,Female,Yes,District 9,0,Graduate,No,19319,822,187,360,1,Semiurban
+655,LP100180,N,Male,Yes,District 9,0,Graduate,No,17961,571,124,360,1,Semiurban
+656,LP100181,N,Male,Yes,District 9,0,Graduate,No,18060,886,194,360,1,Semiurban
+657,LP100182,N,Male,Yes,District 9,0,Graduate,No,17905,517,232,360,1,Semiurban
+658,LP100183,N,Female,Yes,District 9,0,Graduate,No,19717,613,205,360,1,Semiurban
+659,LP100184,N,Male,Yes,District 9,0,Graduate,No,16564,854,210,360,1,Semiurban
+660,LP100185,N,Male,Yes,District 9,0,Graduate,No,19526,723,136,360,1,Semiurban
+661,LP100186,N,Male,Yes,District 9,0,Graduate,No,15745,787,100,360,1,Semiurban
+662,LP100187,N,Male,Yes,District 9,0,Graduate,No,16665,505,118,360,1,Semiurban
+663,LP100188,N,Female,No,District 9,0,Graduate,No,18597,551,265,360,1,Semiurban
+664,LP100189,N,Male,No,District 9,0,Graduate,No,18921,691,135,360,1,Semiurban
+665,LP100190,N,Male,Yes,District 9,0,Graduate,No,17157,715,281,360,1,Semiurban
+666,LP100191,N,Male,No,District 9,0,Graduate,No,18435,789,219,360,1,Semiurban
+667,LP100192,N,Female,Yes,District 9,0,Graduate,No,17033,677,231,360,1,Semiurban
+668,LP100193,N,Male,No,District 9,0,Graduate,No,16638,813,251,360,1,Semiurban
+669,LP100194,N,Male,No,District 9,0,Graduate,No,18696,651,293,360,1,Semiurban
+670,LP100195,Y,Male,No,District 9,0,Graduate,No,18836,958,177,360,1,Semiurban
+671,LP100196,N,Male,No,District 9,0,Graduate,No,19774,723,145,360,1,Semiurban
+672,LP100197,N,Male,No,District 9,0,Graduate,No,17226,724,229,360,1,Semiurban
+673,LP100198,N,Male,Yes,District 9,0,Graduate,No,19649,851,275,360,1,Semiurban
+674,LP100199,N,Male,No,District 9,0,Graduate,No,19769,670,115,360,1,Semiurban
+675,LP100200,N,Female,No,District 9,0,Graduate,No,15883,793,285,360,1,Semiurban
